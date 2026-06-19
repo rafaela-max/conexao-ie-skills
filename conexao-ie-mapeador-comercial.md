@@ -1,3 +1,8 @@
+---
+name: conexao-ie-mapeador-comercial
+description: "Qualifica leads e apoia o processo de discovery comercial da Conexão IE. Use esta skill sempre que precisar: (1) classificar uma empresa ou lista de leads por fit e potencial, (2) identificar qual serviço da Conexão IE faz mais sentido para um perfil de empresa, (3) gerar a ficha de inteligência pré-reunião, (4) selecionar as perguntas de discovery mais relevantes para aquele perfil, (5) registrar e pontuar o resultado de uma reunião. Acione também quando o usuário mencionar 'qual produto oferecer', 'preparar reunião', 'qualificar lead', 'analisar empresa', 'montar ficha', 'perguntas para discovery', 'classificar oportunidade', 'tier A B C' ou qualquer variação disso."
+---
+
 # conexao-ie-mapeador-comercial
 
 Qualifica leads e apoia o processo de discovery comercial da Conexão IE. Use esta skill sempre que precisar: (1) classificar uma empresa ou lista de leads por fit e potencial, (2) identificar qual serviço da Conexão IE faz mais sentido para um perfil de empresa, (3) gerar a ficha de inteligência pré-reunião, (4) selecionar as perguntas de discovery mais relevantes para aquele perfil, (5) registrar e pontuar o resultado de uma reunião. Acione também quando o usuário mencionar 'qual produto oferecer', 'preparar reunião', 'qualificar lead', 'analisar empresa', 'montar ficha', 'perguntas para discovery', 'classificar oportunidade', 'tier A B C' ou qualquer variação disso.
